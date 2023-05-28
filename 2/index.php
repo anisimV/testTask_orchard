@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Сад</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
     <h1>Сад</h1>
