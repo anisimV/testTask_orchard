@@ -16,7 +16,6 @@ class FruitCollector {
         $totalWeightApples = 0;
         $totalWeightPears = 0;
         
-        // Инициализация значения с ключом "apples"
         $collectedFruits['apples'] = 0;
         $collectedFruits['pears'] = 0;
         
